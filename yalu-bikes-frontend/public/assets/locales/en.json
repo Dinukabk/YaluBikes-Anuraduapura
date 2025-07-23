@@ -1,0 +1,23 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success!"
+  },
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "email": "Email",
+    "password": "Password"
+  },
+  "booking": {
+    "available": "Available",
+    "unavailable": "Unavailable",
+    "price": "LKR {{price}}/day",
+    "bookNow": "Book Now"
+  },
+  "payment": {
+    "selectMethod": "Select Payment Method",
+    "confirm": "Confirm Payment"
+  }
+}
