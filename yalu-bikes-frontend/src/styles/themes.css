@@ -1,0 +1,27 @@
+:root {
+  --primary: #4e73df;
+  --primary-dark: #2e59d9;
+  --secondary: #1cc88a;
+  --light: #f8f9fc;
+  --dark: #5a5c69;
+}
+
+/* Dark theme */
+[data-theme="dark"] {
+  --primary: #375aba;
+  --primary-dark: #2a4a9e;
+  --secondary: #17a673;
+  --light: #2d3748;
+  --dark: #f7fafc;
+}
+
+.theme-toggle {
+  cursor: pointer;
+  padding: 0.5rem;
+  border-radius: 50%;
+  transition: all 0.3s ease;
+}
+
+.theme-toggle:hover {
+  background-color: rgba(0,0,0,0.1);
+}

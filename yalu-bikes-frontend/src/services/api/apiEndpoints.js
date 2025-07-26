@@ -14,5 +14,10 @@ export const API_ENDPOINTS = {
   },
   PAYMENTS: {
     INITIATE: '/payments/initiate'
+
   }
+ 
+ 
+ 
+
 };
